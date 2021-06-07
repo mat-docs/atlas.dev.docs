@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "atlas-dev-portal.netlify.app"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "ATLAS Developer Portal"
 Theme = "bigspring"
