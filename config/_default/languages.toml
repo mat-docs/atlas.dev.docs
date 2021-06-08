@@ -1,6 +1,6 @@
 ############################# English ############################
 [en]
 languageName = "En"
-title = "Bigspring Hugo"
+title = "ATLAS Developer Portal"
 contentDir = "content/english" # content/english
 weight = 1
