@@ -1,7 +1,7 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Telemetry Visualisation for Motorsport and engineering"
+  title : "Telemetry Visualisation for Motorsport and Engineering"
   image : "images/atlas_shoulder_view.jpg"
   content : | 
    McLaren ATLAS is a vital tool for engineering projects with demanding telemetry requirements. 
